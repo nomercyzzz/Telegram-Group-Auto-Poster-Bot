@@ -1,0 +1,32 @@
+{
+  "name": "telegram-group-auto-poster-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+      "telegram",
+      "bot",
+      "userbot",
+      "gramjs",
+      "mtproto",          
+      "auto-poster",
+      "group-poster",     
+      "scheduler",
+      "automation",
+      "marketing",
+      "outreach",         
+      "promotion",        
+      "nodejs"
+    ],
+  "author": "Matvey Lebedev",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "input": "^1.0.1",
+    "telegram": "^2.26.22"
+  }
+}
